@@ -19,8 +19,7 @@ Include instructions on how to run and test the projects in this repository. Pro
 
 bash
 Copy code
-# Example command to run a specific project
-./project_name/script.sh
+
 Contributing
 If you want to contribute to this repository, please follow these guidelines:
 
